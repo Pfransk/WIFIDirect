@@ -1,4 +1,4 @@
-# LocalDash
+# WIFI-Direct
 Android local networking
 
 This sample code contains discovery and communication between android devices in vicinity. This contains sample for Network service discovery (NSD), Wi-Fi direct and Wi-Fi service discovery.
@@ -14,5 +14,3 @@ the service type used in this codebase, is not in accordance with IANA. Review b
 When in NSD or Wi-Fi direct screen click on the floating action button to start registration or discovery respectively.
 
 happy coding!!!
-
-https://androiddevsimplified.wordpress.com/
