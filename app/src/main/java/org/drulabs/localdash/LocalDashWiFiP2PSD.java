@@ -214,6 +214,7 @@ public class LocalDashWiFiP2PSD extends AppCompatActivity implements PeerListFra
                         Log.d(TAG, "ERRORCEPTION: Failed adding service discovery request");
                     }
                 });
+
         wifiP2pManager.discoverServices(wifip2pChannel, new WifiP2pManager.ActionListener() {
 
             @Override

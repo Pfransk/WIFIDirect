@@ -80,20 +80,27 @@ public class ChatActivity extends AppCompatActivity {
     }
 
     public void SendChatInfo(View v) {
-        String message = etChat.getText().toString();
 
-        ChatDTO myChat = new ChatDTO();
-        myChat.setPort(ConnectionUtils.getPort(ChatActivity.this));
-        myChat.setFromIP(Utility.getString(ChatActivity.this, "myip"));
-        myChat.setLocalTimestamp(System.currentTimeMillis());
-        myChat.setMessage(message);
-        myChat.setSentBy(chattingWith);
-        myChat.setMyChat(true);
-        DataSender.sendChatInfo(ChatActivity.this, destIP, destPort, myChat);
 
-        etChat.setText("");
-//        chatListHolder.smoothScrollToPosition(chatList.size() - 1);
-        updateChatView(myChat);
+        Intent menu = new Intent(ChatActivity.this,MenuActivity.class);
+        Bundle extras  = getIntent().getExtras();
+        menu.putExtras(extras);
+          startActivity(menu);
+          finish();
+//        String message = etChat.getText().toString();
+//
+//        ChatDTO myChat = new ChatDTO();
+//        myChat.setPort(ConnectionUtils.getPort(ChatActivity.this));
+//        myChat.setFromIP(Utility.getString(ChatActivity.this, "myip"));
+//        myChat.setLocalTimestamp(System.currentTimeMillis());
+//        myChat.setMessage(message);
+//        myChat.setSentBy(chattingWith);
+//        myChat.setMyChat(true);
+//        DataSender.sendChatInfo(ChatActivity.this, destIP, destPort, myChat);
+//
+//        etChat.setText("");
+////        chatListHolder.smoothScrollToPosition(chatList.size() - 1);
+//        updateChatView(myChat);
     }
 
     @Override

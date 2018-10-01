@@ -1,0 +1,4 @@
+#Mon Sep 17 13:48:56 IST 2018
+base.0=C\:\\Users\\DEV\#S\\StudioProjects\\github\\LocalDash\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex

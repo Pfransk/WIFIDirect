@@ -32,6 +32,7 @@
         android:layout_margin="@dimen/fab_margin"
         android:onClick="findPeers"
         android:src="@mipmap/ic_discover"
-        android:tint="@color/colorPrimaryDark"/>
+        android:tint="@color/colorPrimaryDark"
+        tools:ignore="OnClick" />
 
 </android.support.design.widget.CoordinatorLayout>

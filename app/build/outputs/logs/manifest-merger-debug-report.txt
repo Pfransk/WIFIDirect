@@ -1,0 +1,224 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:2:1-69:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\752a596086886a8de5c39ec5dfae5915\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\45f582adf3d779c7933411458d8b1e13\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\0b560aaf0b1e8d21ff8b7b10650d31b6\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\70c67de4eb192e1e2de630ecf380f597\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\bd87cabed5b0e8d983b9814a346e9eeb\AndroidManifest.xml:17:1-22:12
+MERGED from [bg.devlabs.fullscreenvideoview:library:0.0.9] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\library-0.0.9.aar\41640436d91950847771a71955e81cb3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\4e886221340a9de4d19c42b804f3b538\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\b289a4ce743023c9aa57fe659b59748c\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\87844a6c3bdb2ccf5aeedeeff044f966\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\800df56b15716a647ca100c4ae74c9bd\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\ef03821cc4ce1545e299e0886646b750\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\d62d6bace1d010b415724bc3c7405987\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\159af6dfe7815a8b31d37c95b45da992\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:2:1-69:12
+	package
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:2:1-69:12
+		INJECTED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:2:1-69:12
+		INJECTED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:5:5-7:35
+	android:required
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:7:9-32
+	android:name
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:6:9-51
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:10:5-12:35
+	android:required
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:12:9-32
+	android:name
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:11:9-60
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:13:5-15:35
+	android:required
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:15:9-32
+	android:name
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:14:9-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:19:22-77
+application
+ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:21:5-67:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\752a596086886a8de5c39ec5dfae5915\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\752a596086886a8de5c39ec5dfae5915\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\45f582adf3d779c7933411458d8b1e13\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\45f582adf3d779c7933411458d8b1e13\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\0b560aaf0b1e8d21ff8b7b10650d31b6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\0b560aaf0b1e8d21ff8b7b10650d31b6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\70c67de4eb192e1e2de630ecf380f597\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\70c67de4eb192e1e2de630ecf380f597\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\4e886221340a9de4d19c42b804f3b538\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\4e886221340a9de4d19c42b804f3b538\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\b289a4ce743023c9aa57fe659b59748c\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\b289a4ce743023c9aa57fe659b59748c\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\87844a6c3bdb2ccf5aeedeeff044f966\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\87844a6c3bdb2ccf5aeedeeff044f966\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\800df56b15716a647ca100c4ae74c9bd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\800df56b15716a647ca100c4ae74c9bd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\ef03821cc4ce1545e299e0886646b750\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\ef03821cc4ce1545e299e0886646b750\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\d62d6bace1d010b415724bc3c7405987\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\d62d6bace1d010b415724bc3c7405987\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\159af6dfe7815a8b31d37c95b45da992\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\159af6dfe7815a8b31d37c95b45da992\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:27:9-52
+	android:name
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:22:9-38
+activity#org.drulabs.localdash.HomeScreen
+ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:28:9-37:20
+	android:screenOrientation
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:31:13-49
+	android:label
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:29:13-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:35:27-74
+activity#org.drulabs.localdash.LocalDashNSD
+ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:38:9-42:59
+	android:screenOrientation
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:41:13-49
+	android:label
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:40:13-45
+	android:theme
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:42:13-56
+	android:name
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:39:13-41
+activity#org.drulabs.localdash.LocalDashWiFiDirect
+ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:43:9-47:59
+	android:screenOrientation
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:46:13-49
+	android:label
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:45:13-45
+	android:theme
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:47:13-56
+	android:name
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:44:13-48
+activity#org.drulabs.localdash.LocalDashWiFiP2PSD
+ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:48:9-52:59
+	android:screenOrientation
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:51:13-49
+	android:label
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:50:13-45
+	android:theme
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:52:13-56
+	android:name
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:49:13-47
+activity#org.drulabs.localdash.ChatActivity
+ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:53:9-56:52
+	android:screenOrientation
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:56:13-49
+	android:label
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:55:13-45
+	android:name
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:54:13-41
+service#org.drulabs.localdash.transfer.DataTransferService
+ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:58:9-60:38
+	android:enabled
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:60:13-35
+	android:name
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:59:13-57
+activity#org.drulabs.localdash.MenuActivity
+ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:62:9-50
+	android:name
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:62:19-47
+activity#org.drulabs.localdash.Button
+ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:63:9-44
+	android:name
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:63:19-41
+activity#org.drulabs.localdash.Player
+ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:64:9-66:25
+	android:configChanges
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:65:13-59
+	android:name
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml:64:19-41
+uses-sdk
+INJECTED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\752a596086886a8de5c39ec5dfae5915\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\752a596086886a8de5c39ec5dfae5915\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\45f582adf3d779c7933411458d8b1e13\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\45f582adf3d779c7933411458d8b1e13\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\0b560aaf0b1e8d21ff8b7b10650d31b6\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\0b560aaf0b1e8d21ff8b7b10650d31b6\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\70c67de4eb192e1e2de630ecf380f597\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\70c67de4eb192e1e2de630ecf380f597\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\bd87cabed5b0e8d983b9814a346e9eeb\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\bd87cabed5b0e8d983b9814a346e9eeb\AndroidManifest.xml:20:5-43
+MERGED from [bg.devlabs.fullscreenvideoview:library:0.0.9] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\library-0.0.9.aar\41640436d91950847771a71955e81cb3\AndroidManifest.xml:7:5-9:41
+MERGED from [bg.devlabs.fullscreenvideoview:library:0.0.9] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\library-0.0.9.aar\41640436d91950847771a71955e81cb3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\4e886221340a9de4d19c42b804f3b538\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\4e886221340a9de4d19c42b804f3b538\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\b289a4ce743023c9aa57fe659b59748c\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\b289a4ce743023c9aa57fe659b59748c\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\87844a6c3bdb2ccf5aeedeeff044f966\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\87844a6c3bdb2ccf5aeedeeff044f966\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\800df56b15716a647ca100c4ae74c9bd\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\800df56b15716a647ca100c4ae74c9bd\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\ef03821cc4ce1545e299e0886646b750\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\ef03821cc4ce1545e299e0886646b750\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\d62d6bace1d010b415724bc3c7405987\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\d62d6bace1d010b415724bc3c7405987\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\159af6dfe7815a8b31d37c95b45da992\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\159af6dfe7815a8b31d37c95b45da992\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\DEV#S\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\0b560aaf0b1e8d21ff8b7b10650d31b6\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DEV#S\StudioProjects\github\LocalDash\app\src\main\AndroidManifest.xml

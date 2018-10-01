@@ -62,8 +62,7 @@ public class HomeScreen extends AppCompatActivity {
     protected void onResume() {
         super.onResume();
         DBAdapter.getInstance(HomeScreen.this).clearDatabase();
-        tvPort.setText(String.format(getString(R.string.port_info), ConnectionUtils.getPort
-                (HomeScreen.this)));
+        tvPort.setText(String.format(getString(R.string.port_info), String.valueOf(ConnectionUtils.getPort(HomeScreen.this))));
     }
 
     private void printInterfaces() {

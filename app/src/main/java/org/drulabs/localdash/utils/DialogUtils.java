@@ -5,7 +5,9 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.support.v7.app.AlertDialog;
 
+import org.drulabs.localdash.Button;
 import org.drulabs.localdash.ChatActivity;
+import org.drulabs.localdash.MenuActivity;
 import org.drulabs.localdash.R;
 import org.drulabs.localdash.model.DeviceDTO;
 import org.drulabs.localdash.notification.NotificationToast;
@@ -22,7 +24,7 @@ public class DialogUtils {
             selectedDevice) {
         AlertDialog.Builder alertDialog = new AlertDialog.Builder(activity);
         alertDialog.setTitle(selectedDevice.getDeviceName());
-        String[] types = {"Share image", "Chat"};
+        String[] types = {"Watch Videos"};
         alertDialog.setItems(types, new DialogInterface.OnClickListener() {
 
             @Override
@@ -31,11 +33,6 @@ public class DialogUtils {
                 dialog.dismiss();
                 switch (which) {
                     case 0:
-                        Intent imagePicker = new Intent(Intent.ACTION_PICK);
-                        imagePicker.setType("image/*");
-                        activity.startActivityForResult(imagePicker, CODE_PICK_IMAGE);
-                        break;
-                    case 1:
                         DataSender.sendChatRequest(activity, selectedDevice.getIp
                                 (), selectedDevice.getPort());
                         NotificationToast.showToast(activity, "chat request " +
@@ -67,7 +64,7 @@ public class DialogUtils {
                     //Request accepted
                     case 0:
                         openChatActivity(activity, requesterDevice);
-                        NotificationToast.showToast(activity, "Chat request " +
+                        NotificationToast.showToast(activity, "Request " +
                                 "accepted");
                         DataSender.sendChatResponse(activity, requesterDevice.getIp(),
                                 requesterDevice.getPort(), true);
@@ -76,7 +73,7 @@ public class DialogUtils {
                     case 1:
                         DataSender.sendChatResponse(activity, requesterDevice.getIp(),
                                 requesterDevice.getPort(), false);
-                        NotificationToast.showToast(activity, "Chat request " +
+                        NotificationToast.showToast(activity, " Request " +
                                 "rejected");
                         break;
                 }
@@ -88,10 +85,10 @@ public class DialogUtils {
     }
 
     public static void openChatActivity(Activity activity, DeviceDTO device) {
-        Intent chatIntent = new Intent(activity, ChatActivity.class);
-        chatIntent.putExtra(ChatActivity.KEY_CHAT_IP, device.getIp());
-        chatIntent.putExtra(ChatActivity.KEY_CHAT_PORT, device.getPort());
-        chatIntent.putExtra(ChatActivity.KEY_CHATTING_WITH, device.getPlayerName());
+        Intent chatIntent = new Intent(activity, MenuActivity.class);
+        chatIntent.putExtra(MenuActivity.KEY_CHAT_IP, device.getIp());
+        chatIntent.putExtra(MenuActivity.KEY_CHAT_PORT, device.getPort());
+        chatIntent.putExtra(MenuActivity.KEY_CHATTING_WITH, device.getPlayerName());
         activity.startActivity(chatIntent);
     }
 }
